@@ -9,5 +9,6 @@ public class sdomCheckout {
 	public static void main(String args[]) {
 		 test();
 		int a;
+		int b;
 	}
 }
